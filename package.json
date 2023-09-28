@@ -1,5 +1,5 @@
 {
-  "name": "booking",
+  "name": "baat-cheet",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,5 +38,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "After the new update of React, you won't be able to use CRA. But you can easily create your applications with Vite before following the video tutorial.",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Ayush Pal",
+  "license": "ISC"
 }
